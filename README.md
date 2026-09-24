@@ -4,6 +4,8 @@
 
 This repository contains the completed submission for AI Lab 06. It implements and compares heuristic search techniques on weighted graphs and includes an interactive Streamlit visualization.
 
+**GitHub repository:** https://github.com/nafayhassan799/i243095_AI_LAB_06
+
 ### Submission files
 
 - `i243095_AI_LAB_06.ipynb` - completed and executed Jupyter notebook
